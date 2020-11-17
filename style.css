@@ -1,0 +1,8 @@
+body{
+    text-align: center;font-family: 'Dancing Script', cursive;font-size: 30px;background:linear-gradient(#FFC0CB 5%,#FFB6C1	10%,#FF69B4	50%,#FF1493	100%);}
+p{
+    color:purple;font-size: 25px;font-weight: bold;}
+img{
+border: 5px solid teal;border-radius:20px;}
+h2{
+color: dodgerblue;}
